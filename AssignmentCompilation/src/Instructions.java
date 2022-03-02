@@ -1,4 +1,5 @@
-
+/*The following are sets of instructions that will be implemented
+ * in main method*/
 interface Instructions {
 	String questionOne = "1. Write a Java program to allow the user to input \n"
 			+ "two inter values and then the program prints the \nresults "

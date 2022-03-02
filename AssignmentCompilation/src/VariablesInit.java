@@ -1,4 +1,4 @@
-
+/*Variables and abstract method initialization*/
 abstract class VariablesInit {
 	public int firstNum = 0,
 			   secondNum = 0,

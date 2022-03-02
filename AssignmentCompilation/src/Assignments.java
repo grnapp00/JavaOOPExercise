@@ -1,3 +1,5 @@
+/*Main method of the program*/
+
 import java.util.Scanner;
 public class Assignments {
 	
